@@ -1,14 +1,16 @@
 # NARUTO
 
-Simple hand tracking with Naruto/Sasuke powers.
+Simple browser-based hand tracking with **Naruto / Sasuke powers**.
 
-### How to use:
-- Open `index.html` in your browser.
+## How to use
+1. Download or clone the repo.
+2. Open `index.html` in your browser.
+3. Allow camera access.
 
-### Controls:
-- **Right Hand Open:** Shows Naruto power.
-- **Left Hand Open:** Shows Sasuke power.
-- **Blue Lines:** Shows the hand tracking so you know it's working
+## Controls
+- **Right Hand Open** → Naruto power
+- **Left Hand Open** → Sasuke power
+- **Blue Lines** → Hand tracking visualization
 
-### Note:
-- Had to remove the glow to make it compatible for all devices.
+## Note
+Glow effects were removed to make it work better across different devices.
